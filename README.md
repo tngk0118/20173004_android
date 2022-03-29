@@ -10,6 +10,6 @@
     <img width="200" height="380" src="./pic/3st_3.png"></img>
 
 # 4주차(2022-03-29)
-- 버튼 추가하여 Toast 보여주기
+- 버튼 하나 더 추가하여 Toast 보여주기
   - <img width="200" height="380" src="./pic/4st.png"></img>
   
