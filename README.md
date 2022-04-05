@@ -12,4 +12,11 @@
 # 4주차(2022-03-29)
 - 버튼 추가하여 Toast 보여주기
   - <img width="200" height="380" src="./pic/4st.png"></img>
+
+# 5주차(2022-04-05)
+- 상속 개념과 (수직,수평)가이드 라인을 통해 버튼 정렬하기
+  - <img width="200" height="380" src="./pic/5st_1.png"></img>
+    <img width="200" height="380" src="./pic/5st_2.png"></img>
+    <img width="200" height="380" src="./pic/5st_3.png"></img>
+    <img width="200" height="380" src="./pic/5st_4.png"></img>
   
