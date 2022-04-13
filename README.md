@@ -19,4 +19,9 @@
     <img width="200" height="380" src="./pic/5st_2.png"></img>
     <img width="200" height="380" src="./pic/5st_3.png"></img>
     <img width="200" height="380" src="./pic/5st_4.png"></img>
+    
+# 6주차(2022-04-12)
+- 스크롤뷰 사용하기
+  - <img width="200" height="380" src="./pic/6st_1.png"></img>
+    <img width="200" height="380" src="./pic/6st_2.png"></img>
   
