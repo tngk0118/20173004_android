@@ -25,3 +25,11 @@
   - <img width="200" height="380" src="./pic/6st_1.png"></img>
     <img width="200" height="380" src="./pic/6st_2.png"></img>
   
+# 10주차(2022-05-10)
+- 화면 간 전환하기
+  - <img width="450" height="380" src="./pic/10st_1.png"></img>
+    <img width="450" height="380" src="./pic/10st_2.png"></img>
+    
+# 11주차(2022-05-17)
+- 웹으로 요청하고 결과 받아오기
+  - <img width="200" height="380" src="./pic/11st.png"></img>
