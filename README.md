@@ -37,3 +37,6 @@
 # 12주차(2022-05-24)
 - github 연동하기
   - <img width="200" height="380" src="./pic/12st.png"></img>
+
+# 기말과제(2022-06-13)
+- <img width="200" height="380" src="./pic/lastTest.png"></img>
